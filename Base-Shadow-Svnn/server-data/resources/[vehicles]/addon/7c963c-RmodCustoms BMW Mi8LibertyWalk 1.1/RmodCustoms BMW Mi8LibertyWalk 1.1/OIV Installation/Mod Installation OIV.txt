@@ -1,0 +1,37 @@
+
+  [Mod Installation]
+
+  1. Requirements  
+     - OpenIV
+     - Last version of Scripthook
+     - Any Vehicle Spawner your choice
+
+  2. Optional
+     - Custom Gameconfig file
+
+
+  3. Installation (using OIV)
+
+     - OpenIV > Tools > Package Installer > select the file "RmodCustoms_BMWI8MLB_1.0.oiv" > Install > mods folder.
+     - Done!!
+     - InGame Name: rmodi8mlb
+
+
+  [Mod Features]
+
+  1. Colors (only via trainer)
+     - Primary Color: Body
+     - Secondary Color: Outline/Interiror
+     - Wheel Color: Rims (via trainer)
+
+Tuning Parts:
+
+    6 Spoiler
+    1 Rollcage
+    7 Grill
+    4 Front Bumper
+    5 Rear Bumber
+    2 Skirt
+
+  2. All other Tuning Parts in Los Santos Customs or Bennys Garage
+

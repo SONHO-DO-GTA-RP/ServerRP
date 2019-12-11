@@ -1,0 +1,30 @@
+
+  [Mod Installation]
+
+
+  1. Manual Installation 
+
+     - navigate to mods/update/x64/dlcpacks and create a new folder, name it rmodi8mlb open it and drag&drop the dlc.rpf file in to it.
+     - navigate to dlclist.xml. mods > update > update.rpf > common > data 
+     - Open it and paste this line at the end: <Item>dlcpacks:\rmodi8mlb\</Item>
+     - Save! Done!
+     - Now you can spawn the Car with any Trainer your choice. Vehicle Spawn Name: "rmodi8mlb"
+
+  [Mod Features]
+
+  1. Colors (only via trainer)
+     - Primary Color: Body
+     - Secondary Color: Outline/Interiror
+     - Wheel Color: Rims (via trainer)
+
+Tuning Parts:
+
+    6 Spoiler
+    1 Rollcage
+    7 Grill
+    4 Front Bumper
+    5 Rear Bumber
+    2 Skirt
+
+  2. All other Tuning Parts in Los Santos Customs or Bennys Garage
+
